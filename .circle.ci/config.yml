@@ -9,6 +9,3 @@ jobs:
          command: |
            echo 'Hello World!'
            echo 'This is the delivery pipeline'
-Enregistrez la configuration et voyez-la s'exécuter. Vous pouvez voir le résultat du travail dans l'application CircleCI.
-
-Apprentissages
